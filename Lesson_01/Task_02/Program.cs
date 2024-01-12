@@ -16,3 +16,10 @@ double product3 = a * d;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+
+int quotient = a / b;
+Console.WriteLine(quotient);
+
+d = 6;
+double quotient2 = a / d;
+Console.WriteLine(quotient2);
